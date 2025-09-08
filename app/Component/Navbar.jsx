@@ -156,7 +156,7 @@ export const Navbar = () => {
                                 <motion.a
                                     initial={{ opacity: 0, x: 20 }}
                                     animate={{ opacity: 1, x: 0 }}
-                                    transition={{ duration: 0.3, delay:navLinks.length * 0.5 }}
+                                    transition={{ duration: 0.3, delay: 0.5 }}
                                     onClick={closeMenu}
                                     href="https://www.instagram.com/pookie.anant"
                                     className='flex text-[16px] font-semibold custom-gradient py-4 px-8 text-white rounded-full items-center  justify-center gap-2 mt-4 hover:opacity-90 transition-opacity '
