@@ -48,7 +48,7 @@ export const About = () => {
                     variants={item}
                     whileHover={{ scale: 1.05 }}
                     className='bg-white/10 backdrop-blur-sm rounded-3xl p-8 text-center border border-outer'>
-                    <h3 className='text-5xl md:text-6xl font-bold text-gradient'>5+</h3>
+                    <h3 className='text-5xl md:text-6xl font-bold text-gradient'>6+</h3>
                     <p className='text-gray-700 font-medium text-lg mt-0.5'>Year of Experience in <br /> Video Editing</p>
                 </motion.div>
                 {/* card 2 */}
@@ -56,7 +56,7 @@ export const About = () => {
                     variants={item}
                     whileHover={{ scale: 1.05 }}
                     className='bg-white/10 backdrop-blur-sm rounded-3xl p-8 text-center border border-outer'>
-                    <h3 className='text-5xl md:text-6xl font-bold text-gradient'>3+</h3>
+                    <h3 className='text-5xl md:text-6xl font-bold text-gradient'>7+</h3>
                     <p className='text-gray-700 font-medium text-lg mt-0.5'>Year of Experience in <br /> Content Creation</p>
                 </motion.div>
                 {/* card 3 */}
