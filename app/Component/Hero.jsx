@@ -54,6 +54,7 @@ export const Hero = () => {
                         src="/assets/Anant_Model.png"
                         alt="profile image"
                         fill
+                        sizes="150px"
                         className="rounded-full object-cover"
                         priority
                     />
