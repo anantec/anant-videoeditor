@@ -88,7 +88,7 @@ export const About = () => {
                         viewport={{ once: true }}
                         className='text-gray-600 text-lg leading-relaxed'>
                         I'm Anant Singh — a freelance video editor, web developer, and Business
-                        Development Intern from Lucknow, India. I specialize in high-retention
+                        Developer Intern from Lucknow, India. I specialize in high-retention
                         Instagram Reels editing for coaches, educators, and online creators, with
                         5M+ organic views generated across edited content. I help creators turn
                         raw footage into scroll-stopping short-form videos that actually perform
@@ -101,7 +101,7 @@ export const About = () => {
                         transition={{ duration: 0.6, delay: 0.8 }}
                         viewport={{ once: true }}
                         className='text-gray-600 text-lg leading-relaxed'>
-                        On the development side, I build fast, responsive websites and portfolios— currently working as a Business Development Intern at FileMyFirm where I apply both my technical and strategic skills to drive digital growth. My editing style is built around SFX layering, precise cuts, BGM selection, and pacing that keeps viewers
+                        On the Development side, I build fast, responsive websites and portfolios— currently working as a Business Developer Intern at FileMyFirm where I apply both my technical and strategic skills to drive digital growth. My editing style is built around SFX layering, precise cuts, BGM selection, and pacing that keeps viewers
                         watching till the end. Whether you need content that converts or a website that stands out — I bring both to the table.
                     </motion.p>
                 </div>
