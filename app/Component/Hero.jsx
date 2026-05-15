@@ -16,7 +16,7 @@ export const Hero = () => {
         // "/assets/premiere-pro.png",
         "/assets/figma.png",
         "/assets/capcut.png",
-        "/assets/premiere-pro.png",
+        // "/assets/premiere-pro.png",
         "/assets/canva.jpg",
     ]
 
